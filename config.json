@@ -1,0 +1,6 @@
+{
+    "APP_DEFAULT_LOCALE": "en-US",
+    "APP_NETWORK_MONITOR_URL": "https://stats.nepalblockchain.network",
+    "APP_NODE_URL": "https://api.nepalblockchain.network",
+    "APP_ROUTER_HISTORY_MODE": true
+}
